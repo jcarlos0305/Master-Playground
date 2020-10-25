@@ -24,12 +24,18 @@
     <ClCompile Include="Vec3Template.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Vec3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Vec3Template.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="String.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

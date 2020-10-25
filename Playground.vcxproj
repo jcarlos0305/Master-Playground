@@ -20,10 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="String.cpp" />
     <ClCompile Include="Vec3.cpp" />
     <ClCompile Include="Vec3Template.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="String.h" />
     <ClInclude Include="Vec3.h" />
     <ClInclude Include="Vec3Template.h" />
   </ItemGroup>
